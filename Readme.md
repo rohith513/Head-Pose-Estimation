@@ -14,7 +14,7 @@ This is the Python implementation of Headpose estimation using Dlib's face detec
 - Supports webcam, video and image as input source
 - Terminal support for easy execution
 
-## Prerequisites
+# Prerequisites
 - [camera_calib](camera_calib.py) is used to calculate intrinsic camera parameters
     - Set the below parameters before running the code 
     
